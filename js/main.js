@@ -73,5 +73,4 @@ document.addEventListener('DOMContentLoaded', function (e) {
   media2.addEventListener('change', handle2);
   handle3(media3, mySiema, mySiema2);
   media3.addEventListener('change', handle3);
-  console.log(mySiema);
 })
